@@ -8,6 +8,7 @@ from src.lib.colors import ColorPalette
 
 from .ui_element import UIElement
 
+
 class EnumToggle[EnumType: Enum](UIElement):
     def __init__(
         self,

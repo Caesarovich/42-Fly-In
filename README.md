@@ -2,7 +2,20 @@
 
 # Fly-in
 
-Drones are interesting.
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white" alt="Python 3.14">
+  </a>
+  <a href="https://github.com/Caesarovich/42-Fly-In/actions/workflows/ci.yml">
+    <img src="https://github.com/Caesarovich/42-Fly-In/actions/workflows/ci.yml/badge.svg" alt="Quality checks">
+  </a>
+</p>
+
+
+<p align="center">
+  <strong>Drones are interesting.</strong>
+</p>
+
 
 ## Description
 
